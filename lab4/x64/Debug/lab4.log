@@ -1,0 +1,11 @@
+﻿  Source.c
+C:\Users\dKilc\Downloads\laba4\lab4\Source.c(10,12): warning C4477: "printf": в строке форматирования "%g" требуется аргумент типа "double", но вариативный аргумент "2" имеет тип "int"
+C:\Users\dKilc\Downloads\laba4\lab4\Source.c(21,12): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "4" имеет тип "double"
+C:\Users\dKilc\Downloads\laba4\lab4\Source.c(21,12): warning C4473: "printf": передано недостаточно аргументов для строки формата
+      C:\Users\dKilc\Downloads\laba4\lab4\Source.c(21,12):
+      заполнители и их параметры ожидают переменное число аргументов в количестве 5, но было предоставлено 4
+      C:\Users\dKilc\Downloads\laba4\lab4\Source.c(21,12):
+      отсутствующий вариативный аргумент "5" требуется для строки форматирования "%.2e"
+  
+C:\Users\dKilc\Downloads\laba4\lab4\Source.c(76,5): warning C4098: TaskDZ: функция типа "void", возвращающая значение
+  lab4.vcxproj -> C:\Users\dKilc\Downloads\laba4\x64\Debug\lab4.exe
